@@ -4,4 +4,4 @@ In this repository I'll add all of my data structures implementations. Most of t
 
 Enjoy! :)
 
-**Data Structure Practicals : **
+**Data Structure Practicals  **
