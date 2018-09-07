@@ -6,6 +6,7 @@ Enjoy! :+1:
 
 **Data Structure Programs :**
 
+- Stack
 - Linked List
   - Insert at begin and end
    - Delete from begin and end
