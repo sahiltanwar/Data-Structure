@@ -12,6 +12,8 @@ Enjoy! :+1:
 - Linked List
   - Insert at begin and end
    - Delete from begin and end
+- Queue
+  - Insertion and Deletion Uaing array
 - Tree
   - Height of tree
   - No. of leaf nodes
