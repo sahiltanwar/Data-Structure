@@ -13,7 +13,7 @@ Enjoy! :+1:
   - Insert at begin and end
    - Delete from begin and end
 - Queue
-  - Insertion and Deletion Uaing array
+  - Insertion and Deletion Using array
 - Tree
   - Height of tree
   - No. of leaf nodes
