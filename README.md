@@ -18,6 +18,7 @@ Enjoy! :+1:
   - Height of tree
   - No. of leaf nodes
   - No. of internal nodes
+  - Inorder, Preorder and Postorder
 - Queue
   - Insertion and Deletion using Array
   - Insertion and Deletion using Linked List
