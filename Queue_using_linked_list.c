@@ -8,13 +8,7 @@ struct node
 };
 struct node *front=NULL;
 struct node *rear=NULL;
-/*struct node *createQueue()
-{
-	struct node *temp;
-	temp = (struct node *)malloc(sizeof(stuct node));
-	temp->front = temp->rear = NULL;
-	return temp;
-}*/
+
 void EnQueue()
 {
 	struct node *n1;
